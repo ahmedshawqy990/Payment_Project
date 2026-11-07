@@ -1,0 +1,17 @@
+[
+  {
+    "payment_status_id": 1,
+    "payment_status": "Successful",
+    "is_successful": true
+  },
+  {
+    "payment_status_id": 2,
+    "payment_status": "Failed",
+    "is_successful": false
+  },
+  {
+    "payment_status_id": 3,
+    "payment_status": "Refunded",
+    "is_successful": false
+  }
+]

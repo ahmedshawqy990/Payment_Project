@@ -1,0 +1,51 @@
+[
+  {
+    "payment_method_id": 1,
+    "payment_method": "Credit Card",
+    "is_card": true,
+    "requires_auth": true,
+    "fee_percent": 2.5
+  },
+  {
+    "payment_method_id": 2,
+    "payment_method": "Debit Card",
+    "is_card": true,
+    "requires_auth": true,
+    "fee_percent": 2.0
+  },
+  {
+    "payment_method_id": 3,
+    "payment_method": "Meeza Card",
+    "is_card": true,
+    "requires_auth": true,
+    "fee_percent": 1.5
+  },
+  {
+    "payment_method_id": 4,
+    "payment_method": "Mobile Wallet",
+    "is_card": false,
+    "requires_auth": true,
+    "fee_percent": 1.0
+  },
+  {
+    "payment_method_id": 5,
+    "payment_method": "InstaPay",
+    "is_card": false,
+    "requires_auth": true,
+    "fee_percent": 0.5
+  },
+  {
+    "payment_method_id": 6,
+    "payment_method": "Fawry Pay",
+    "is_card": false,
+    "requires_auth": false,
+    "fee_percent": 1.5
+  },
+  {
+    "payment_method_id": 7,
+    "payment_method": "Cash on Delivery",
+    "is_card": false,
+    "requires_auth": false,
+    "fee_percent": 0.0
+  }
+]

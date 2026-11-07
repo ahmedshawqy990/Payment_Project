@@ -1,0 +1,52 @@
+[
+  {
+    "bank_id": 1,
+    "bank": "National Bank of Egypt",
+    "bank_code": "NBE"
+  },
+  {
+    "bank_id": 2,
+    "bank": "Banque Misr",
+    "bank_code": "BM"
+  },
+  {
+    "bank_id": 3,
+    "bank": "Commercial International Bank",
+    "bank_code": "CIB"
+  },
+  {
+    "bank_id": 4,
+    "bank": "QNB Egypt",
+    "bank_code": "QNB"
+  },
+  {
+    "bank_id": 5,
+    "bank": "Banque du Caire",
+    "bank_code": "BDC"
+  },
+  {
+    "bank_id": 6,
+    "bank": "Bank of Alexandria",
+    "bank_code": "ALEXBANK"
+  },
+  {
+    "bank_id": 7,
+    "bank": "HSBC Egypt",
+    "bank_code": "HSBC"
+  },
+  {
+    "bank_id": 8,
+    "bank": "Arab African International Bank",
+    "bank_code": "AAIB"
+  },
+  {
+    "bank_id": 9,
+    "bank": "Faisal Islamic Bank",
+    "bank_code": "FIB"
+  },
+  {
+    "bank_id": 10,
+    "bank": "Housing and Development Bank",
+    "bank_code": "HDB"
+  }
+]

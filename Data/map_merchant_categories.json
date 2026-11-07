@@ -1,0 +1,56 @@
+[
+  {
+    "merchant_category_id": 1,
+    "merchant_category": "Groceries",
+    "description": "Supermarkets and hypermarkets",
+    "mcc_code": 5411
+  },
+  {
+    "merchant_category_id": 2,
+    "merchant_category": "Restaurants & Cafes",
+    "description": "Dining and coffee shops",
+    "mcc_code": 5812
+  },
+  {
+    "merchant_category_id": 3,
+    "merchant_category": "Electronics",
+    "description": "Mobiles and appliances",
+    "mcc_code": 5732
+  },
+  {
+    "merchant_category_id": 4,
+    "merchant_category": "Fashion",
+    "description": "Clothing and shoes",
+    "mcc_code": 5651
+  },
+  {
+    "merchant_category_id": 5,
+    "merchant_category": "Utilities & Bills",
+    "description": "Electricity, water, gas, internet",
+    "mcc_code": 4900
+  },
+  {
+    "merchant_category_id": 6,
+    "merchant_category": "Mobile Top-up",
+    "description": "Airtime and mobile bundles",
+    "mcc_code": 4814
+  },
+  {
+    "merchant_category_id": 7,
+    "merchant_category": "Travel & Transport",
+    "description": "Flights, buses and trains",
+    "mcc_code": 4722
+  },
+  {
+    "merchant_category_id": 8,
+    "merchant_category": "Healthcare",
+    "description": "Pharmacies, labs and clinics",
+    "mcc_code": 8099
+  },
+  {
+    "merchant_category_id": 9,
+    "merchant_category": "Education",
+    "description": "Tuition and online courses",
+    "mcc_code": 8299
+  }
+]

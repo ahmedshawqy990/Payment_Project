@@ -1,0 +1,114 @@
+[
+  {
+    "city_id": 1,
+    "city": "Cairo",
+    "governorate": "Cairo",
+    "region": "Greater Cairo",
+    "latitude": 30.0444,
+    "longitude": 31.2357
+  },
+  {
+    "city_id": 2,
+    "city": "Giza",
+    "governorate": "Giza",
+    "region": "Greater Cairo",
+    "latitude": 30.0131,
+    "longitude": 31.2089
+  },
+  {
+    "city_id": 3,
+    "city": "New Cairo",
+    "governorate": "Cairo",
+    "region": "Greater Cairo",
+    "latitude": 30.03,
+    "longitude": 31.47
+  },
+  {
+    "city_id": 4,
+    "city": "6th of October",
+    "governorate": "Giza",
+    "region": "Greater Cairo",
+    "latitude": 29.9285,
+    "longitude": 30.9188
+  },
+  {
+    "city_id": 5,
+    "city": "Alexandria",
+    "governorate": "Alexandria",
+    "region": "Alexandria",
+    "latitude": 31.2001,
+    "longitude": 29.9187
+  },
+  {
+    "city_id": 6,
+    "city": "Mansoura",
+    "governorate": "Dakahlia",
+    "region": "Delta",
+    "latitude": 31.0409,
+    "longitude": 31.3785
+  },
+  {
+    "city_id": 7,
+    "city": "Tanta",
+    "governorate": "Gharbia",
+    "region": "Delta",
+    "latitude": 30.7865,
+    "longitude": 31.0004
+  },
+  {
+    "city_id": 8,
+    "city": "Port Said",
+    "governorate": "Port Said",
+    "region": "Canal",
+    "latitude": 31.2653,
+    "longitude": 32.3019
+  },
+  {
+    "city_id": 9,
+    "city": "Suez",
+    "governorate": "Suez",
+    "region": "Canal",
+    "latitude": 29.9668,
+    "longitude": 32.5498
+  },
+  {
+    "city_id": 10,
+    "city": "Hurghada",
+    "governorate": "Red Sea",
+    "region": "Red Sea",
+    "latitude": 27.2579,
+    "longitude": 33.8116
+  },
+  {
+    "city_id": 11,
+    "city": "Sharm El Sheikh",
+    "governorate": "South Sinai",
+    "region": "Sinai",
+    "latitude": 27.9158,
+    "longitude": 34.33
+  },
+  {
+    "city_id": 12,
+    "city": "Assiut",
+    "governorate": "Assiut",
+    "region": "Upper Egypt",
+    "latitude": 27.1809,
+    "longitude": 31.1837
+  },
+  {
+    "city_id": 13,
+    "city": "Luxor",
+    "governorate": "Luxor",
+    "region": "Upper Egypt",
+    "latitude": 25.6872,
+    "longitude": 32.6396
+  },
+  {
+    "city_id": 14,
+    "city": "Aswan",
+    "governorate": "Aswan",
+    "region": "Upper Egypt",
+    "latitude": 24.0889,
+    "longitude": 32.8998
+  }
+]
