@@ -1,0 +1,9 @@
+[
+{"file":"map_cities"},
+{"file":"map_failure_reasons"},
+{"file":"bulk_payments"},
+{"file":"map_payment_methods"},
+{"file":"map_payment_statuses"},
+{"file":"map_banks"},
+{"file":"map_merchant_categories"}
+]
